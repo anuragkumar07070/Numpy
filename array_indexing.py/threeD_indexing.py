@@ -2,7 +2,7 @@
 # 3D array is the combination of two 2D array
 
 # *** 3 step to access element form 3D array
-# there are 2array ---> index/Select array
+# there are 2 array ---> index/Select array
 # inside 2D array ----> index of 1 and 2 row
 # inside 2D array ----> Select the index of the elements
 
