@@ -6,7 +6,7 @@
 # f for float
 # c for complex float
 # m for timedelta
-# m for datetime
+# M for datetime
 # O for object
 # S for string
 # U for unicode string
